@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Marta</h1>
-<h3 align="center">A passionate frontend developer from Valencia (Spain), but based in London.</h3>
+<h1 align="center">Hi! 👋 I'm Marta!</h1>
+<h3 align="center">A passionate frontend developer from Valencia (Spain), but based in London, UK.</h3>
 
 - 📫You can contact me in **martasanchez.dev@gmail.com**
 
