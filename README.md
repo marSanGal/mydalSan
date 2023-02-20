@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marta</h1>
 <h3 align="center">A passionate frontend developer from Valencia (Spain), but based in London.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mydalsan" alt="mydalsan" /></a> </p>
-
 - 📫You can contact me in **martasanchez.dev@gmail.com**
 
 - ⚡ Fun fact: **I'm also a Musical theatre actress, so my sense of humor and comunication skills are on point.**
